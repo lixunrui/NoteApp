@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDEA7BA7-91EA-45D4-9905-FB83F78356F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D985829BDC2953DC65D9E1910FEEAEA392DA73E3</key>
+		<string>https://github.com/lixunrui/Recorder</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Note/Note.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D985829BDC2953DC65D9E1910FEEAEA392DA73E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lixunrui/Recorder</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D985829BDC2953DC65D9E1910FEEAEA392DA73E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D985829BDC2953DC65D9E1910FEEAEA392DA73E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Private%20project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
